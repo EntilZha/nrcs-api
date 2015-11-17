@@ -8,5 +8,20 @@
     <artifactId>wcc-awdb-web</artifactId>
     <version>1.0</version>
 
+    <name>NRCS AWDB Web API</name>
+    <description>
+        Code generated from http://www.wcc.nrcs.usda.gov/web_service/awdb_web_service_landing.htm
+    </description>
+    <url>https://github.com/EntilZha/nrcs-api</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>http://svn.apache.org/viewvc/maven</url>
+    </scm>
 
 </project>
